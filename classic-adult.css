@@ -554,10 +554,6 @@
   margin-bottom: 24px;
 }
 
-.u-section-6 .u-table-entity-1 {
-  min-height: 100px;
-}
-
 .u-section-6 .u-table-header-1 {
   font-weight: 700;
   background-image: none;
@@ -569,4 +565,10 @@
 
 .u-section-6 .u-btn-3 {
   padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-table-entity-1 {
+    min-height: 100px;
+  }
 }
