@@ -536,7 +536,7 @@
     min-height: 261px;
   }
 }.u-section-6 .u-sheet-1 {
-  min-height: 238px;
+  min-height: 302px;
 }
 
 .u-section-6 .u-btn-1 {
@@ -550,8 +550,8 @@
 }
 
 .u-section-6 .u-table-1 {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 18px;
+  margin-bottom: 24px;
 }
 
 .u-section-6 .u-table-entity-1 {
@@ -563,14 +563,7 @@
   background-image: none;
 }
 
-.u-section-6 .u-table-cell-12 {
-  border-style: none none solid;
-  padding: 0;
-}
-
 .u-section-6 .u-btn-2 {
-  font-weight: 700;
-  text-decoration: underline !important;
   padding: 0;
 }
 
