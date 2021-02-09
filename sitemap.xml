@@ -9,23 +9,38 @@
 
 <url>
   <loc>https://biolinija.eu/</loc>
-  <lastmod>2021-02-07T18:23:16+00:00</lastmod>
+  <lastmod>2021-02-09T04:19:26+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://biolinija.eu/sausas-maistas-sunims.html</loc>
-  <lastmod>2021-02-07T18:23:16+00:00</lastmod>
+  <lastmod>2021-02-09T04:19:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://biolinija.eu/mini-kroketas.html</loc>
-  <lastmod>2021-02-07T18:23:16+00:00</lastmod>
+  <lastmod>2021-02-09T04:19:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://biolinija.eu/complete.html</loc>
+  <lastmod>2021-02-09T04:19:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://biolinija.eu/classic-adult.html</loc>
-  <lastmod>2021-02-07T18:23:16+00:00</lastmod>
+  <lastmod>2021-02-09T04:19:26+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://biolinija.eu/pro-insect.html</loc>
+  <lastmod>2021-02-09T04:19:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://biolinija.eu/kur-isigyti.html</loc>
+  <lastmod>2021-02-09T04:19:26+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
